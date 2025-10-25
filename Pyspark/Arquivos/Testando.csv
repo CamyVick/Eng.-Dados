@@ -1,0 +1,11 @@
+﻿id,nome,idade,data_nascimento,salario,endereco
+1,   CAMILLY  , 29, 1995/05/07 , R$ 3.500,00 ,Rua das Flores, nº 10 - São Paulo
+"2,joão, trinta e cinco,07-08-1988,""4500"",Av Paulista 1000 - SP"
+"3,Larissa,,24/04/1999,""5.200,00"", , Rua das Laranjeiras, RJ"
+004,  pedro henrique, 42 ,1982-11-09, seis mil ,Rua sem nome - 
+5, MARIA CLARA ,  27 ,1997/01/01 ,  7000,00 ,Rua dos Anjos, Recife
+06,, 33 , 1989/05/01, R$4000 , Endereço desconhecido
+7,  JOSEFA, vinte e oito,1996-12-05 , 3.250,00 ,AV RIO BRANCO - RJ
+"8,joão, 35 ,07-08-1988,""4500"", Av Paulista 1000 - SP"
+9, camila,   25  ,  25/09/1999  , R$5.100,00, Av. Central 55, Fortaleza
+10,    , , , , 
