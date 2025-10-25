@@ -1,0 +1,17 @@
+2025-10-21 21:32:21,698 - teste.py - INFO - O resultado de fcr e : 96.0
+2025-10-21 21:37:12,750 - teste.py - INFO - O resultado de fcr e : 96.0
+2025-10-21 21:37:12,750 - teste.py - INFO - O resultado de CSAT e: 0.8
+2025-10-21 21:37:36,286 - teste.py - INFO - O resultado de fcr e : 96.0
+2025-10-21 21:37:36,286 - teste.py - INFO - O resultado de CSAT e: 80.0
+2025-10-21 21:37:57,120 - teste.py - WARNING - O volume das chamadas esta menor que o total de chamadas
+2025-10-21 21:37:57,120 - teste.py - INFO - O resultado de fcr e : 100.8
+2025-10-21 21:37:57,120 - teste.py - INFO - O resultado de CSAT e: 80.0
+2025-10-21 21:38:51,002 - teste.py - WARNING - O volume das fcr 1260 esta menor que o total de chamadas 1250
+2025-10-21 21:38:51,002 - teste.py - INFO - O resultado de fcr e : 100.8
+2025-10-21 21:38:51,002 - teste.py - INFO - O resultado de CSAT e: 80.0
+2025-10-21 21:39:27,921 - teste.py - WARNING - O volume das fcr 1260 esta menor que o total de chamadas 1250
+2025-10-21 21:39:27,921 - teste.py - INFO - O resultado de fcr e : 100.8
+2025-10-21 21:39:27,921 - teste.py - INFO - O resultado de CSAT e: 68.18181818181817
+2025-10-21 21:39:49,542 - teste.py - WARNING - O volume das fcr 1260 esta menor que o total de chamadas 1250
+2025-10-21 21:39:49,543 - teste.py - INFO - O resultado de fcr e : 100.8
+2025-10-21 21:39:49,543 - teste.py - INFO - O resultado de CSAT e: 68.18181818181817
